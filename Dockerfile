@@ -1,4 +1,5 @@
 # Use Python 3.12 slim image as base
+# Rebuilt on 2026-04-08 to force HF Space redeployment
 FROM python:3.12-slim
 
 # Set working directory
